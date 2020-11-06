@@ -1,6 +1,5 @@
 # 🤲 - Contribuições da comunidade brasileira de GMOD (GMBR)
-Diversos repositórios criados por brasileiros que contribuem/contribuiram na comunidade.<br>
-Este arquivo contem uma lista curada de todas as criações organizadas por categoria com seus respectivos links e descrições.
+Este readme contém uma lista curada de todas as criações da comunidade organizadas por categoria com seus respectivos links e descrições.
 
 ## 📚 - Bibliotecas e frameworks
 
