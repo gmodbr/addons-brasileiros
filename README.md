@@ -16,7 +16,7 @@ Este readme contém uma lista curada de todas as criações da comunidade organi
   - [Ceifa](https://github.com/ceifa)
 - Descrição
   - sqlier é uma abstração para gerenciamento de banco de dados no Garry's Mod que visa oferecer uma maneira de escrever um código muito simples apenas uma vez e poder alternar entre vários drivers de banco de dados sem problemas
--Status de desenvolvimento
+- Status de desenvolvimento
   - Ativo
   
 ## 🔧 - Addons
